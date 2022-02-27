@@ -1,2 +1,2 @@
 # ReactLessons
-A personal stach for react lessons
+A personal stach documenting some react lessons.
